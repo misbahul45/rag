@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: rag-service
+Version: 0.1.0
+Summary: RAG API with LangChain, OpenAI, and ChromaDB
+Author-email: Misbahul Muttaqin <you@example.com>
+Requires-Python: <3.12,>=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: langchain-openai>=0.1.8
+Requires-Dist: python-dotenv>=1.0.1
+Requires-Dist: langchain>=0.2.1
+Requires-Dist: langchain-community>=0.2.1
+Requires-Dist: langchain-anthropic>=0.1.15
+Requires-Dist: langchain-google-genai>=1.0.5
+Requires-Dist: langchain-google-firestore>=0.3.0
+Requires-Dist: firestore>=0.0.8
+Requires-Dist: chromadb>=0.5.0
+Requires-Dist: bs4>=0.0.2
+Requires-Dist: firecrawl-py>=0.0.13
+Requires-Dist: langchainhub>=0.1.18
+Requires-Dist: wikipedia>=1.4.0
+Requires-Dist: qdrant-client>=1.7.0
+Requires-Dist: dotenv>=0.9.9
+Requires-Dist: langchain-groq>=0.3.8
+Requires-Dist: langchain-core>=0.3.76
+Requires-Dist: faiss-cpu>=1.12.0
+Requires-Dist: huggingface-hub>=0.34.4
