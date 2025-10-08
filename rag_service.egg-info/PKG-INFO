@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: rag-service
+Version: 0.1.0
+Summary: RAG API with LangChain, OpenAI, and ChromaDB
+Author-email: Misbahul Muttaqin <you@example.com>
+Requires-Python: <3.12,>=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: python-dotenv>=1.0.1
+Requires-Dist: langchain>=0.2.1
+Requires-Dist: langchain-community>=0.2.1
+Requires-Dist: chromadb>=0.5.0
+Requires-Dist: bs4>=0.0.2
+Requires-Dist: langchainhub>=0.1.18
+Requires-Dist: wikipedia>=1.4.0
+Requires-Dist: langchain-groq>=0.3.8
+Requires-Dist: langchain-core>=0.3.76
