@@ -1,6 +1,0 @@
-pyproject.toml
-rag_service.egg-info/PKG-INFO
-rag_service.egg-info/SOURCES.txt
-rag_service.egg-info/dependency_links.txt
-rag_service.egg-info/requires.txt
-rag_service.egg-info/top_level.txt
