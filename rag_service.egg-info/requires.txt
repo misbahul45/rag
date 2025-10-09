@@ -7,3 +7,4 @@ langchainhub>=0.1.18
 wikipedia>=1.4.0
 langchain-groq>=0.3.8
 langchain-core>=0.3.76
+ipykernel>=6.30.1
